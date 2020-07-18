@@ -1,0 +1,29 @@
+.Image {
+    width:100px;
+    position: relative;
+}
+
+.InputNumber {
+    width:30px;
+    height: 30px;
+}
+
+.ButtonDelete {
+    background-color: #CC0000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.Payment {
+    color:white;
+    font-weight: bold;
+    width:400px;
+}
+.Order ul li{
+    list-style-type: none;
+}
